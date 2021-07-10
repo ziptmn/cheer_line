@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="883.64mm" height="343.853mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2054.11 799.32"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
+	<font-face 
+		font-family="Gotham Narrow Ultra">
+		<font-face-src>
+			<font-face-name name="GothamNarrow-Ultra"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="615" d="M345 -14.0001c137,0 219,62.9999 270,139l-146 129c-23.0001,-35.9999 -55.0002,-68 -111,-68 -64.9998,0 -118,52 -118,163l0 3.99985c0,104 49.0004,161 117,161 54.9995,0 84.9997,-30.9998 108,-66.0001l146 134c-56.0004,80.0002 -138.001,132 -258,132 -183,0 -333,-138 -333,-357l0 -17.0003c0,-222 149,-354 325,-354z"/>
+   <glyph unicode="E" horiz-adv-x="570" d="M32.9997 0l518 0 0 184 -304 0 0 84 277 0 0 168 -277 0 0 79.9996 299 0 0 184 -513 0 0 -700z"/>
+   <glyph unicode="H" horiz-adv-x="667" d="M32.9997 0l216 0 0 256 169 0 0 -256 216 0 0 700 -216 0 0 -252 -169 0 0 252 -216 0 0 -700z"/>
+   <glyph unicode="I" horiz-adv-x="286" d="M35.0003 0l216 0 0 700 -216 0 0 -700z"/>
+   <glyph unicode="L" horiz-adv-x="527" d="M32.9997 0l483 0 0 190 -267 0 0 510 -216 0 0 -700z"/>
+   <glyph unicode="N" horiz-adv-x="681" d="M32.9997 0l212 0 0 311 209 -311 194 0 0 700 -211 0 0 -296 -199 296 -205 0 0 -700z"/>
+   <glyph unicode="R" horiz-adv-x="627" d="M32.9997 0l215.001 0 0 204 34.9997 0 109 -204 242 0 -140 248c71.9998,38.9995 120,104 120,205l0 6.0004c0,72.9995 -21.9998,126 -62.9999,167 -46.9998,46.9998 -122,73.9998 -230,73.9998l-288 0 0 -700zm215.001 363l0 155 70.9996 0c47.0004,0 78.0002,-24.0004 78.0002,-75l0 -5.00013c0,-49.0004 -30.9998,-75 -78.9999,-75l-69.9999 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Gotham Narrow Ultra";font-variant:normal;font-weight:900;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#EC2828}
+    .fil0 {fill:white}
+    .fil2 {fill:white}
+    .fnt0 {font-weight:900;font-size:376.02px;font-family:'Gotham Narrow Ultra'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2917217711920">
+   <path class="fil0" d="M526.38 538.6l-140.5 0 0 -135.13c-44.91,38.27 -40.09,88.69 -42.9,99.69l-139.68 -15.48c4.39,-17.47 -3.46,-97.34 73.34,-176.52 -41.8,5.57 -66.26,32.98 -75.88,39.35l-87.82 -109.72c10.18,-6.61 53.72,-52.8 133.44,-66.83 -16.37,-6.7 -20.18,-4.61 -40.68,-7.57l15.5 -139.63c11.25,2.64 89.23,0.45 164.68,61.93l0 -88.69 140.5 -0 0 88.69c75.24,-61.31 153.62,-59.33 164.67,-61.93l15.51 139.63c-21.74,3.13 -24.51,0.94 -40.71,7.57 79.3,13.91 122.27,59.56 133.46,66.83l-87.82 109.72c-11.67,-7.74 -33.03,-33.63 -75.88,-39.35 71.37,73.58 71.22,168.08 73.34,176.52l-139.68 15.48c-2.67,-10.45 1.59,-61.78 -42.9,-99.69l0 135.13zm0 0z"/>
+   <path class="fil1" d="M413.44 799.32l-140.5 0 0 -135.13c-44.91,38.27 -40.09,88.69 -42.9,99.69l-139.68 -15.48c4.39,-17.47 -3.46,-97.34 73.34,-176.52 -41.8,5.57 -66.27,32.98 -75.88,39.35l-87.82 -109.72c10.18,-6.62 53.73,-52.8 133.44,-66.83 -16.37,-6.7 -20.18,-4.61 -40.68,-7.57l15.51 -139.64c11.24,2.65 89.22,0.45 164.67,61.93l0 -88.68 140.5 0 0 88.69c75.24,-61.31 153.63,-59.33 164.68,-61.93l15.5 139.63c-21.74,3.13 -24.51,0.94 -40.7,7.57 79.3,13.91 122.26,59.56 133.46,66.83l-87.82 109.72c-11.67,-7.74 -33.03,-33.63 -75.88,-39.35 71.37,73.58 71.22,168.08 73.34,176.52l-139.68 15.48c-2.67,-10.45 1.59,-61.78 -42.9,-99.69l-0 135.13zm0 0z"/>
+   <text x="858.44" y="367.61"  class="fil0 fnt0">C</text>
+   <text x="1101.14" y="367.61"  class="fil0 fnt0">H</text>
+   <text x="1363.4" y="367.61"  class="fil0 fnt0">E</text>
+   <text x="1589.55" y="367.61"  class="fil0 fnt0">E</text>
+   <text x="1815.71" y="367.61"  class="fil0 fnt0">R</text>
+   <text x="798.65" y="721.39"  class="fil1 fnt0">L</text>
+   <text x="1008.26" y="721.39"  class="fil1 fnt0">I</text>
+   <text x="1127.26" y="721.39"  class="fil1 fnt0">N</text>
+   <text x="1394.77" y="721.39"  class="fil1 fnt0">E</text>
+   <circle class="fil2" cx="1782.91" cy="589.79" r="111.86"/>
+  </g>
+ </g>
+</svg>
