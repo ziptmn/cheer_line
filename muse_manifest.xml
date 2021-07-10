@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cheer_line.ru" resolutions="1x" timestamp="1625905706031">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1625914028167">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3933344442" ref="index"/>
+    <file name="index.css" crc="114446421" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,12 +14,6 @@
   </folder>
   <folder name="images">
     <file name="чир лайн.svg" crc="4043172044" ref="index"/>
-    <file name="чир лайн_poster_u132.png" crc="4020322645" ref="index"/>
-    <file name="андрей.png" crc="73131021" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="image_800x800.png" crc="3795900945" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -37,11 +31,52 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="андрей-u140.png" crc="466675645" ref="index"/>
-    <file name="андрей-u140-m.png" crc="3938399343" ref="index"/>
+    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
+    <file name="чир лайн_poster_u296.png" crc="4020322645" ref="index"/>
+    <file name="курган.png" crc="59675343" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тюмень.jpg" crc="4039586640" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="регистрация.svg" crc="36642318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="регистрация_poster_.png" crc="4161530482" ref="index"/>
+    <file name="эксперты.svg" crc="3887983273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эксперты_poster_.png" crc="4014359015" ref="index"/>
+    <file name="запись-видео.svg" crc="4036511323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="запись видео_poster_.png" crc="4140064452" ref="index"/>
+    <file name="просмотр.svg" crc="329564187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="просмотр_poster_.png" crc="59336418" ref="index"/>
+    <file name="награждение.svg" crc="278472373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="награждение_poster_.png" crc="238537314" ref="index"/>
+    <file name="андрей-u172.png" crc="466675645" ref="index"/>
+    <file name="андрей-u172-m.png" crc="4243593870" ref="index"/>
+    <file name="андрей-u175.png" crc="466675645" ref="index"/>
+    <file name="андрей-u175-m.png" crc="4243593870" ref="index"/>
+    <file name="андрей-u178.png" crc="466675645" ref="index"/>
+    <file name="андрей-u178-m.png" crc="4243593870" ref="index"/>
+    <file name="костя-u552.png" crc="4090123887" ref="index"/>
+    <file name="костя-u552-m.png" crc="4009686628" ref="index"/>
+    <file name="вика-u563.png" crc="100156256" ref="index"/>
+    <file name="вика-u563-m.png" crc="256817620" ref="index"/>
+    <file name="галя-u566.png" crc="333424085" ref="index"/>
+    <file name="галя-u566-m.png" crc="4267542227" ref="index"/>
+    <file name="шереметьев-u585.png" crc="437393644" ref="index"/>
+    <file name="шереметьев-u585-m.png" crc="388587573" ref="index"/>
+    <file name="долгов-u596.png" crc="4197907618" ref="index"/>
+    <file name="долгов-u596-m.png" crc="4039359379" ref="index"/>
   </folder>
-  <file name="index.html" crc="3910635832" seo="true" mt="1625905705777" redirect="true"/>
+  <file name="index.html" crc="97805574" seo="true" mt="1625914027686" redirect="true"/>
 </manifest>
