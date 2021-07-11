@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1625920126083">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1626008387228">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4071413873" ref="index"/>
+    <file name="index.css" crc="205407038" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,17 +10,23 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u782.php" crc="497440472" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="чир-лайн-favicon.ico" crc="4252174239" ref="index"/>
+    <file name="чир лайн1.svg" crc="4243487228" ref="index"/>
+    <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="index"/>
+    <file name="u1017-5.png" crc="300225092" ref="index"/>
+    <file name="u181-4.png" crc="488062493" ref="index"/>
+    <file name="u1020-4.png" crc="129827238" ref="index"/>
+    <file name="u1023-4.png" crc="241001095" ref="index"/>
+    <file name="u1026-4.png" crc="3788840274" ref="index"/>
+    <file name="u1029-4.png" crc="419822444" ref="index"/>
+    <file name="u184-4.png" crc="308979958" ref="index"/>
     <file name="image_800x800.png" crc="3795900945" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -30,37 +36,61 @@
     <file name="тмн.jpg" crc="4005174079" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="питер.png" crc="3984805407" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="mt.png" crc="4049178621" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="андрей-u140.png" crc="466675645" ref="index"/>
-    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
+    <file name="демография.png" crc="103592789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u254-4.png" crc="122107442" ref="index"/>
+    <file name="питер.png" crc="3984805407" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="курган.png" crc="59675343" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="тюмень.jpg" crc="4039586640" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="регистрация.svg" crc="36642318" ref="index">
+    <file name="u320-4.png" crc="3899264208" ref="index"/>
+    <file name="u963-4.png" crc="4091129762" ref="index"/>
+    <file name="u989-10.png" crc="460641813" ref="index"/>
+    <file name="u1040-10.png" crc="460641813" ref="index"/>
+    <file name="u1043-10.png" crc="460641813" ref="index"/>
+    <file name="u1046-10.png" crc="460641813" ref="index"/>
+    <file name="u1049-10.png" crc="460641813" ref="index"/>
+    <file name="u323-4.png" crc="108161508" ref="index"/>
+    <file name="регистрация.svg" crc="36642318" ref="index"/>
+    <file name="регистрация_poster_u645.png" crc="3980680819" ref="index"/>
+    <file name="регистрация2.svg" crc="3840034968" ref="index"/>
+    <file name="регистрация2_poster_u653.png" crc="462998691" ref="index"/>
+    <file name="u534-4.png" crc="462549871" ref="index"/>
+    <file name="эксперты.svg" crc="3887983273" ref="index"/>
+    <file name="эксперты_poster_u664.png" crc="66747322" ref="index"/>
+    <file name="u537-4.png" crc="3896682535" ref="index"/>
+    <file name="запись видео.svg" crc="4036511323" ref="index"/>
+    <file name="запись видео_poster_u675.png" crc="4124447950" ref="index"/>
+    <file name="u540-4.png" crc="3967116155" ref="index"/>
+    <file name="просмотр.svg" crc="329564187" ref="index"/>
+    <file name="просмотр_poster_u686.png" crc="4239597509" ref="index"/>
+    <file name="u543-4.png" crc="3784984899" ref="index"/>
+    <file name="награждение.svg" crc="278472373" ref="index"/>
+    <file name="награждение_poster_u697.png" crc="142204475" ref="index"/>
+    <file name="u546-4.png" crc="67954305" ref="index"/>
+    <file name="u549-4.png" crc="466072214" ref="index"/>
+    <file name="u615-4.png" crc="4058287394" ref="index"/>
+    <file name="0t532gei5es.jpg" crc="4052786699" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="эксперты.svg" crc="3887983273" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="просмотр.svg" crc="329564187" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="награждение.svg" crc="278472373" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="андрей-u172.png" crc="466675645" ref="index"/>
-    <file name="андрей-u172-m.png" crc="4243593870" ref="index"/>
-    <file name="андрей-u175.png" crc="466675645" ref="index"/>
-    <file name="андрей-u175-m.png" crc="4243593870" ref="index"/>
-    <file name="андрей-u178.png" crc="466675645" ref="index"/>
-    <file name="андрей-u178-m.png" crc="4243593870" ref="index"/>
+    <file name="0t532gei5es-u720-fr.jpg" crc="3978873742" ref="index"/>
+    <file name="андрей-u140.png" crc="466675645" ref="index"/>
+    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
+    <file name="гетман-u172.png" crc="4054005016" ref="index"/>
+    <file name="гетман-u172-m.png" crc="3850104769" ref="index"/>
+    <file name="стукалова-u175.png" crc="128697106" ref="index"/>
+    <file name="стукалова-u175-m.png" crc="4157093073" ref="index"/>
+    <file name="красс-u178.png" crc="4069870451" ref="index"/>
+    <file name="красс-u178-m.png" crc="388175810" ref="index"/>
     <file name="костя-u552.png" crc="4090123887" ref="index"/>
     <file name="костя-u552-m.png" crc="4009686628" ref="index"/>
     <file name="вика-u563.png" crc="100156256" ref="index"/>
@@ -71,33 +101,6 @@
     <file name="шереметьев-u585-m.png" crc="388587573" ref="index"/>
     <file name="долгов-u596.png" crc="4197907618" ref="index"/>
     <file name="долгов-u596-m.png" crc="4039359379" ref="index"/>
-    <file name="u181-4.png" crc="488062493" ref="index"/>
-    <file name="u184-4.png" crc="308979958" ref="index"/>
-    <file name="mt.png" crc="4049178621" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u254-4.png" crc="122107442" ref="index"/>
-    <file name="u320-4.png" crc="3899264208" ref="index"/>
-    <file name="u323-4.png" crc="108161508" ref="index"/>
-    <file name="регистрация_poster_u645.png" crc="3980680819" ref="index"/>
-    <file name="регистрация2.svg" crc="3840034968" ref="index"/>
-    <file name="регистрация2_poster_u653.png" crc="462998691" ref="index"/>
-    <file name="u534-4.png" crc="462549871" ref="index"/>
-    <file name="эксперты_poster_u664.png" crc="66747322" ref="index"/>
-    <file name="u537-4.png" crc="3896682535" ref="index"/>
-    <file name="запись видео.svg" crc="4036511323" ref="index"/>
-    <file name="запись видео_poster_u675.png" crc="4124447950" ref="index"/>
-    <file name="u540-4.png" crc="3967116155" ref="index"/>
-    <file name="просмотр_poster_u686.png" crc="4239597509" ref="index"/>
-    <file name="u543-4.png" crc="3784984899" ref="index"/>
-    <file name="награждение_poster_u697.png" crc="142204475" ref="index"/>
-    <file name="u546-4.png" crc="67954305" ref="index"/>
-    <file name="u549-4.png" crc="466072214" ref="index"/>
-    <file name="u615-4.png" crc="4058287394" ref="index"/>
-    <file name="0t532gei5es.jpg" crc="4052786699" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="0t532gei5es-u720-fr.jpg" crc="3978873742" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u618_states.png" crc="4043766859" ref="index"/>
     <file name="u618_states-r.png" crc="159453895" ref="index"/>
@@ -105,24 +108,16 @@
     <file name="u630_states-r.png" crc="367185455" ref="index"/>
     <file name="u633_states.png" crc="305954873" ref="index"/>
     <file name="u633_states-r.png" crc="300656614" ref="index"/>
-    <file name="чир лайн1.svg" crc="4243487228" ref="index"/>
-    <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="index"/>
-    <file name="демография.png" crc="103592789" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u963-4.png" crc="4091129762" ref="index"/>
-    <file name="u989-18.png" crc="505418120" ref="index"/>
-    <file name="солонгина-u964.png" crc="3859554143" ref="index"/>
-    <file name="солонгина-u964-m.png" crc="331306944" ref="index"/>
-    <file name="солонгина-u965.png" crc="3859554143" ref="index"/>
-    <file name="солонгина-u965-m.png" crc="331306944" ref="index"/>
-    <file name="солонгина-u966.png" crc="3859554143" ref="index"/>
-    <file name="солонгина-u966-m.png" crc="331306944" ref="index"/>
-    <file name="солонгина-u967.png" crc="3859554143" ref="index"/>
-    <file name="солонгина-u967-m.png" crc="331306944" ref="index"/>
-    <file name="солонгина-u968.png" crc="3859554143" ref="index"/>
-    <file name="солонгина-u968-m.png" crc="331306944" ref="index"/>
-    <file name="чир-лайн-favicon.ico" crc="4252174239" ref="index"/>
+    <file name="вопрос-u964.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u964-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u965.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u965-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u966.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u966-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u967.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u967-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u968.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u968-m.png" crc="343107791" ref="index"/>
   </folder>
-  <file name="index.html" crc="4285915437" seo="true" mt="1625920104600" redirect="true"/>
+  <file name="index.html" crc="174060775" seo="true" mt="1626008358169" redirect="true"/>
 </manifest>
