@@ -1,32 +1,40 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1626009198475">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="512922878" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="100835277" seo="true" mt="1626009171087" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1626192786038">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="76135891" ref="index"/>
+    <file name="index.css" crc="4034897347" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index"/>
-    <file name="require.js" crc="7928878" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
+    <file name="чир лайн1.svg" crc="4243487228" ref="phone>index:index"/>
+    <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="phone>index:index"/>
+    <file name="u1110-5.png" crc="3929258112" ref="phone>index"/>
+    <file name="u1121-6.png" crc="3879883343" ref="phone>index"/>
     <file name="чир-лайн-favicon.ico" crc="4252174239" ref="index"/>
-    <file name="чир лайн1.svg" crc="4243487228" ref="index:phone>index"/>
-    <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="index:phone>index"/>
     <file name="u1017-5.png" crc="300225092" ref="index"/>
     <file name="u181-4.png" crc="488062493" ref="index"/>
+    <file name="андрей.png" crc="73131021" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="гетман.png" crc="31057490" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="стукалова.png" crc="330724524" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="красс.png" crc="4042463341" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u1020-4.png" crc="129827238" ref="index"/>
     <file name="u1023-4.png" crc="241001095" ref="index"/>
-    <file name="u1026-4.png" crc="3788840274" ref="index"/>
+    <file name="u1026-4.png" crc="31440148" ref="index"/>
     <file name="u1029-4.png" crc="419822444" ref="index"/>
     <file name="u184-4.png" crc="308979958" ref="index"/>
     <file name="image_800x800.png" crc="3795900945" ref="index">
@@ -56,8 +64,11 @@
     </file>
     <file name="u320-4.png" crc="3899264208" ref="index"/>
     <file name="u963-4.png" crc="4091129762" ref="index"/>
+    <file name="марина пыленок.png" crc="469926779" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u989-10.png" crc="460641813" ref="index"/>
-    <file name="u1040-10.png" crc="460641813" ref="index"/>
+    <file name="u1040-12.png" crc="3765145871" ref="index"/>
     <file name="u1043-10.png" crc="460641813" ref="index"/>
     <file name="u1046-10.png" crc="460641813" ref="index"/>
     <file name="u1049-10.png" crc="460641813" ref="index"/>
@@ -79,7 +90,7 @@
     <file name="u546-4.png" crc="67954305" ref="index"/>
     <file name="u549-4.png" crc="466072214" ref="index"/>
     <file name="u615-4.png" crc="4058287394" ref="index"/>
-    <file name="0t532gei5es.jpg" crc="4215224952" ref="index">
+    <file name="0t532gei5es.jpg" crc="4116407515" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="костя-u552.png" crc="4090123887" ref="index"/>
@@ -101,28 +112,18 @@
     <file name="u633_states-r.png" crc="300656614" ref="index"/>
     <file name="вопрос-u964.png" crc="24112101" ref="index"/>
     <file name="вопрос-u964-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u965.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u965-m.png" crc="343107791" ref="index"/>
     <file name="вопрос-u966.png" crc="24112101" ref="index"/>
     <file name="вопрос-u966-m.png" crc="343107791" ref="index"/>
     <file name="вопрос-u967.png" crc="24112101" ref="index"/>
     <file name="вопрос-u967-m.png" crc="343107791" ref="index"/>
     <file name="вопрос-u968.png" crc="24112101" ref="index"/>
     <file name="вопрос-u968-m.png" crc="343107791" ref="index"/>
-    <file name="u1110-5.png" crc="3929258112" ref="phone>index"/>
-    <file name="u1121-6.png" crc="3879883343" ref="phone>index"/>
-    <file name="андрей.png" crc="73131021" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="гетман.png" crc="31057490" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="стукалова.png" crc="330724524" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="красс.png" crc="4042463341" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="405323735" seo="true" mt="1626009197543" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4136573090" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4130517575" seo="true" mt="1626010166213" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="34545468" seo="true" mt="1626192785244" redirect="true"/>
 </manifest>
