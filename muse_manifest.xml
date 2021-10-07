@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1626720585289">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1633620074305">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="261503021" ref="index"/>
+    <file name="master_______-a.css" crc="254159740" ref="index"/>
+    <file name="index.css" crc="4061452330" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -11,8 +12,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
     <file name="чир лайн1.svg" crc="4243487228" ref="phone>index:index"/>
@@ -20,6 +19,24 @@
     <file name="u1110-5.png" crc="3929258112" ref="phone>index"/>
     <file name="u1121-6.png" crc="3879883343" ref="phone>index"/>
     <file name="чир-лайн-favicon.ico" crc="4252174239" ref="index"/>
+    <file name="group 3.png" crc="231563161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="андрей-u140.png" crc="466675645" ref="index"/>
+    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
+    <file name="гетман2-u172.png" crc="3845463225" ref="index"/>
+    <file name="гетман2-u172-m.png" crc="201938984" ref="index"/>
+    <file name="никита-u175.png" crc="37091459" ref="index"/>
+    <file name="никита-u175-m.png" crc="23244977" ref="index"/>
+    <file name="красс-u178.png" crc="4069870451" ref="index"/>
+    <file name="красс-u178-m.png" crc="388175810" ref="index"/>
     <file name="image_800x800.png" crc="3795900945" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -35,39 +52,39 @@
     <file name="демография.png" crc="103592789" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="питер.png" crc="3984805407" ref="index">
+    <file name="bi_calendar-week-fill.svg" crc="3982688519" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="курган.png" crc="59675343" ref="index">
+    <file name="bi_calendar-week-fill_poster_.png" crc="4149424827" ref="index"/>
+    <file name="vector.svg" crc="368960500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="тюмень.jpg" crc="4039586640" ref="index">
+    <file name="vector_poster_.png" crc="454688412" ref="index"/>
+    <file name="group.svg" crc="4232692312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="group_poster_.png" crc="3990294855" ref="index"/>
+    <file name="ant-design_eye-filled.svg" crc="3802873212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ant-design_eye-filled_poster_.png" crc="3914596696" ref="index"/>
+    <file name="ls_present-(1).svg" crc="190960425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ls_present (1)_poster_.png" crc="44579384" ref="index"/>
     <file name="марина пыленок.png" crc="469926779" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="регистрация.svg" crc="36642318" ref="index"/>
-    <file name="регистрация_poster_u645.png" crc="3980680819" ref="index"/>
-    <file name="эксперты.svg" crc="3887983273" ref="index"/>
-    <file name="эксперты_poster_u664.png" crc="66747322" ref="index"/>
-    <file name="запись видео.svg" crc="4036511323" ref="index"/>
-    <file name="запись видео_poster_u675.png" crc="4124447950" ref="index"/>
-    <file name="просмотр.svg" crc="329564187" ref="index"/>
-    <file name="просмотр_poster_u686.png" crc="4239597509" ref="index"/>
-    <file name="награждение.svg" crc="278472373" ref="index"/>
-    <file name="награждение_poster_u697.png" crc="142204475" ref="index"/>
-    <file name="0t532gei5es.jpg" crc="4116407515" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="андрей-u140.png" crc="466675645" ref="index"/>
-    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
-    <file name="гетман2-u172.png" crc="3845463225" ref="index"/>
-    <file name="гетман2-u172-m.png" crc="201938984" ref="index"/>
-    <file name="стукалова-u175.png" crc="128697106" ref="index"/>
-    <file name="стукалова-u175-m.png" crc="4157093073" ref="index"/>
-    <file name="красс-u178.png" crc="4069870451" ref="index"/>
-    <file name="красс-u178-m.png" crc="388175810" ref="index"/>
+    <file name="вопрос-u964.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u964-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u966.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u966-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u967.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u967-m.png" crc="343107791" ref="index"/>
+    <file name="вопрос-u968.png" crc="24112101" ref="index"/>
+    <file name="вопрос-u968-m.png" crc="343107791" ref="index"/>
     <file name="костя-u552.png" crc="4090123887" ref="index"/>
     <file name="костя-u552-m.png" crc="4009686628" ref="index"/>
     <file name="вика-u563.png" crc="100156256" ref="index"/>
@@ -78,19 +95,17 @@
     <file name="шереметьев-u585-m.png" crc="388587573" ref="index"/>
     <file name="долгов-u596.png" crc="4197907618" ref="index"/>
     <file name="долгов-u596-m.png" crc="4039359379" ref="index"/>
-    <file name="вопрос-u964.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u964-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u966.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u966-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u967.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u967-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u968.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u968-m.png" crc="343107791" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u1173.png" crc="62743271" ref="index"/>
-    <file name="u1173-a.png" crc="174336856" ref="index"/>
-    <file name="u1218.png" crc="514847366" ref="index"/>
-    <file name="u1218-a.png" crc="4087428600" ref="index"/>
+    <file name="frame-1.svg" crc="4099274912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 1_poster_.png" crc="3957027626" ref="index"/>
+    <file name="frame-2.svg" crc="240547818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 2_poster_.png" crc="4162646792" ref="index"/>
+    <file name="0t532gei5es.jpg" crc="4116407515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -98,5 +113,5 @@
     </folder>
     <file name="index.html" crc="4130517575" seo="true" mt="1626010166213" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3788320150" seo="true" mt="1626720539557" redirect="true"/>
+  <file name="index.html" crc="4082055333" seo="true" mt="1633620061100" redirect="true"/>
 </manifest>
