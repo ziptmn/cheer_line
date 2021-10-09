@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1633762939998">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1633794531762">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
-    <file name="index.css" crc="4162683062" ref="index"/>
+    <file name="index.css" crc="3881147460" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -139,5 +139,5 @@
     </folder>
     <file name="index.html" crc="3782319045" seo="true" mt="1633761368286" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4237215693" seo="true" mt="1633762867490" redirect="true"/>
+  <file name="index.html" crc="379293279" seo="true" mt="1633794506623" redirect="true"/>
 </manifest>
