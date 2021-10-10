@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1633794531762">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1633868530315">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
-    <file name="index.css" crc="3881147460" ref="index"/>
+    <file name="index.css" crc="67409491" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -21,27 +21,35 @@
     <file name="демография-u3071-fr.png" crc="93039275" ref="phone>index"/>
     <file name="bi_calendar-week-fill.svg" crc="3982688519" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="bi_calendar-week-fill_poster_.png" crc="4149424827" ref="phone>index:index"/>
+    <file name="bi_calendar-week-fill_poster_.png" crc="4149424827" ref="phone>index"/>
     <file name="vector.svg" crc="368960500" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="vector_poster_.png" crc="454688412" ref="phone>index:index"/>
+    <file name="vector_poster_.png" crc="454688412" ref="phone>index"/>
     <file name="group.svg" crc="4232692312" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="group_poster_.png" crc="3990294855" ref="phone>index:index"/>
+    <file name="group_poster_.png" crc="3990294855" ref="phone>index"/>
     <file name="ant-design_eye-filled.svg" crc="3802873212" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="ant-design_eye-filled_poster_.png" crc="3914596696" ref="phone>index:index"/>
-    <file name="ls_present-(1).svg" crc="190960425" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ls_present (1)_poster_.png" crc="44579384" ref="phone>index:index"/>
+    <file name="ant-design_eye-filled_poster_.png" crc="3914596696" ref="phone>index"/>
+    <file name="ls_present-(1).svg" crc="190960425" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ls_present (1)_poster_.png" crc="44579384" ref="phone>index"/>
     <file name="марина пыленок.png" crc="469926779" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="костя-u3410.png" crc="4229730756" ref="phone>index"/>
@@ -58,12 +66,14 @@
     <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="phone>index:index"/>
     <file name="frame-2.svg" crc="240547818" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="frame 2_poster_.png" crc="4162646792" ref="phone>index:index"/>
-    <file name="frame-1.svg" crc="4099274912" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frame 1_poster_.png" crc="3957027626" ref="phone>index:index"/>
+    <file name="frame 2_poster_.png" crc="4162646792" ref="phone>index"/>
+    <file name="frame-1.svg" crc="4099274912" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 1_poster_.png" crc="3957027626" ref="phone>index"/>
     <file name="андрей-u3016.png" crc="466675645" ref="phone>index"/>
     <file name="андрей-u3016-m.png" crc="4243593870" ref="phone>index"/>
     <file name="гетман2-u3028.png" crc="3845463225" ref="phone>index"/>
@@ -135,9 +145,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3842160736" ref="phone>index"/>
+      <file name="index.css" crc="452273513" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3782319045" seo="true" mt="1633761368286" redirect="true"/>
+    <file name="index.html" crc="41163573" seo="true" mt="1633867283597" redirect="true"/>
   </folder>
-  <file name="index.html" crc="379293279" seo="true" mt="1633794506623" redirect="true"/>
+  <file name="index.html" crc="176517761" seo="true" mt="1633867588102" redirect="true"/>
 </manifest>
