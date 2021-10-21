@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1634829662451">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1634830070949">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
@@ -146,5 +146,5 @@
     </folder>
     <file name="index.html" crc="41163573" seo="true" mt="1633867283597" redirect="true"/>
   </folder>
-  <file name="index.html" crc="184903926" seo="true" mt="1634829661343" redirect="true"/>
+  <file name="index.html" crc="300684426" seo="true" mt="1634830048140" redirect="true"/>
 </manifest>
