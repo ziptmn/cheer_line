@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1634224353201">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1634829662451">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
-    <file name="index.css" crc="120264413" ref="index"/>
+    <file name="index.css" crc="4206166341" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -114,12 +114,12 @@
     <file name="демография.png" crc="103592789" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вопрос-u966.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u966-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u967.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u967-m.png" crc="343107791" ref="index"/>
-    <file name="вопрос-u968.png" crc="24112101" ref="index"/>
-    <file name="вопрос-u968-m.png" crc="343107791" ref="index"/>
+    <file name="виктор.png" crc="270320075" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="артём.png" crc="186571536" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="костя-u552.png" crc="4090123887" ref="index"/>
     <file name="костя-u552-m.png" crc="4009686628" ref="index"/>
     <file name="вика-u563.png" crc="100156256" ref="index"/>
@@ -130,10 +130,13 @@
     <file name="шереметьев-u585-m.png" crc="388587573" ref="index"/>
     <file name="долгов-u596.png" crc="4197907618" ref="index"/>
     <file name="долгов-u596-m.png" crc="4039359379" ref="index"/>
+    <file name="кз.png" crc="4020482543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="0t532gei5es.jpg" crc="4116407515" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="кз.png" crc="4020482543" ref="index">
+    <file name="logo_redstar.png" crc="3939797735" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
@@ -143,5 +146,5 @@
     </folder>
     <file name="index.html" crc="41163573" seo="true" mt="1633867283597" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4188564792" seo="true" mt="1634224320544" redirect="true"/>
+  <file name="index.html" crc="184903926" seo="true" mt="1634829661343" redirect="true"/>
 </manifest>
