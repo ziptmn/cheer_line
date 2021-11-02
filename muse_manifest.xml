@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1635704700871">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1635870507336">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
-    <file name="index.css" crc="478169965" ref="index"/>
+    <file name="index.css" crc="312956815" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -14,38 +14,55 @@
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
+    <file name="image_800x800-u3706-fr.png" crc="4151312708" ref="phone>index"/>
+    <file name="logo_sport_cheer-u3707-fr.png" crc="3984826468" ref="phone>index"/>
+    <file name="тмн-u3708-fr.jpg" crc="90742485" ref="phone>index"/>
+    <file name="mt-u3709-fr.png" crc="4235731636" ref="phone>index"/>
+    <file name="демография-u3710-fr.png" crc="361834018" ref="phone>index"/>
+    <file name="logo_redstar-u3711-fr.png" crc="457171981" ref="phone>index"/>
     <file name="bi_calendar-week-fill.svg" crc="3982688519" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="bi_calendar-week-fill_poster_.png" crc="4149424827" ref="phone>index:index"/>
+    <file name="bi_calendar-week-fill_poster_.png" crc="4149424827" ref="phone>index"/>
     <file name="vector.svg" crc="368960500" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="vector_poster_.png" crc="454688412" ref="phone>index:index"/>
+    <file name="vector_poster_.png" crc="454688412" ref="phone>index"/>
     <file name="group.svg" crc="4232692312" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="group_poster_.png" crc="3990294855" ref="phone>index:index"/>
+    <file name="group_poster_.png" crc="3990294855" ref="phone>index"/>
     <file name="ant-design_eye-filled.svg" crc="3802873212" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="ant-design_eye-filled_poster_.png" crc="3914596696" ref="phone>index:index"/>
-    <file name="ls_present-(1).svg" crc="190960425" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ls_present (1)_poster_.png" crc="44579384" ref="phone>index:index"/>
+    <file name="ant-design_eye-filled_poster_.png" crc="3914596696" ref="phone>index"/>
+    <file name="ls_present-(1).svg" crc="190960425" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ls_present (1)_poster_.png" crc="44579384" ref="phone>index"/>
     <file name="марина пыленок.png" crc="469926779" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="виктор.png" crc="270320075" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="артём.png" crc="186571536" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="алена лихачева.png" crc="389061073" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="костя-u3410.png" crc="4229730756" ref="phone>index"/>
@@ -60,18 +77,25 @@
     <file name="долгов-u3394-m.png" crc="4181306089" ref="phone>index"/>
     <file name="кз.png" crc="4020482543" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="беларусь.png" crc="299665837" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="0t532gei5es-u3656-fr.jpg" crc="267392200" ref="phone>index"/>
     <file name="чир лайн1.svg" crc="4243487228" ref="phone>index:index"/>
     <file name="чир лайн1_poster_u955.png" crc="3966409678" ref="phone>index:index"/>
     <file name="frame-2.svg" crc="240547818" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="frame 2_poster_.png" crc="4162646792" ref="phone>index:index"/>
-    <file name="frame-1.svg" crc="4099274912" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frame 1_poster_.png" crc="3957027626" ref="phone>index:index"/>
+    <file name="frame 2_poster_.png" crc="4162646792" ref="phone>index"/>
+    <file name="frame-1.svg" crc="4099274912" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 1_poster_.png" crc="3957027626" ref="phone>index"/>
     <file name="андрей-u3016.png" crc="466675645" ref="phone>index"/>
     <file name="андрей-u3016-m.png" crc="4243593870" ref="phone>index"/>
     <file name="гетман2-u3028.png" crc="3845463225" ref="phone>index"/>
@@ -93,10 +117,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="андрей-u140.png" crc="466675645" ref="index"/>
-    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
     <file name="гетман2-u172.png" crc="3845463225" ref="index"/>
     <file name="гетман2-u172-m.png" crc="201938984" ref="index"/>
+    <file name="андрей-u140.png" crc="466675645" ref="index"/>
+    <file name="андрей-u140-m.png" crc="4243593870" ref="index"/>
     <file name="никита-u175.png" crc="37091459" ref="index"/>
     <file name="никита-u175-m.png" crc="23244977" ref="index"/>
     <file name="красс-u178.png" crc="4069870451" ref="index"/>
@@ -119,6 +143,9 @@
     <file name="logo_redstar.png" crc="3939797735" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="марина лалетина.png" crc="57653259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="костя-u552.png" crc="4090123887" ref="index"/>
     <file name="костя-u552-m.png" crc="4009686628" ref="index"/>
     <file name="вика-u563.png" crc="100156256" ref="index"/>
@@ -132,18 +159,12 @@
     <file name="0t532gei5es.jpg" crc="4116407515" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image_800x800-u3706-fr.png" crc="4151312708" ref="phone>index"/>
-    <file name="logo_sport_cheer-u3707-fr.png" crc="3984826468" ref="phone>index"/>
-    <file name="тмн-u3708-fr.jpg" crc="90742485" ref="phone>index"/>
-    <file name="mt-u3709-fr.png" crc="4235731636" ref="phone>index"/>
-    <file name="демография-u3710-fr.png" crc="361834018" ref="phone>index"/>
-    <file name="logo_redstar-u3711-fr.png" crc="457171981" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="495914329" ref="phone>index"/>
+      <file name="index.css" crc="4254567616" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="427897280" seo="true" mt="1635432918331" redirect="true"/>
+    <file name="index.html" crc="107946122" seo="true" mt="1635869696807" redirect="true"/>
   </folder>
-  <file name="index.html" crc="19405105" seo="true" mt="1635704639792" redirect="true"/>
+  <file name="index.html" crc="4119898158" seo="true" mt="1635870505095" redirect="true"/>
 </manifest>
