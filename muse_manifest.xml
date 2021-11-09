@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1635962432355">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ziptmn.github.io/cheer_line" resolutions="1x" timestamp="1636468182665">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4145093881" ref="index"/>
-    <file name="index.css" crc="45632732" ref="index"/>
+    <file name="index.css" crc="508410378" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -162,9 +162,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="99104504" ref="phone>index"/>
+      <file name="index.css" crc="215779975" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4049050436" seo="true" mt="1635962390746" redirect="true"/>
+    <file name="index.html" crc="3833083021" seo="true" mt="1636468157394" redirect="true"/>
   </folder>
-  <file name="index.html" crc="454923602" seo="true" mt="1635962353313" redirect="true"/>
+  <file name="index.html" crc="3764008539" seo="true" mt="1636468072674" redirect="true"/>
 </manifest>
